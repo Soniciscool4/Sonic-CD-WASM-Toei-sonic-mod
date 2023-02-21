@@ -1,3 +1,3 @@
 # Sonic-CD-WASM
 
-[Click to play.](https://tws2401.github.io/Sonic-CD-WASM/)
+A web port of the 2011 Retro Engine remake of Sonic CD.
